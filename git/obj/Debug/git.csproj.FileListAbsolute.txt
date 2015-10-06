@@ -1,0 +1,6 @@
+C:\Oracle\jprojects\git\git\bin\git.dll.config
+C:\Oracle\jprojects\git\git\bin\git.dll
+C:\Oracle\jprojects\git\git\bin\git.pdb
+C:\Oracle\jprojects\git\git\obj\Debug\git.csprojResolveAssemblyReference.cache
+C:\Oracle\jprojects\git\git\obj\Debug\git.dll
+C:\Oracle\jprojects\git\git\obj\Debug\git.pdb
